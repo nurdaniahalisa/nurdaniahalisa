@@ -1,4 +1,4 @@
-Hellooo, you've just arrived at Dania Halisa's profile-- glad you're here !! >v<
+You've just arrived at Dania Halisa's profile, Hi!
 =========================================================================================================================================
 
 Bachelor of Computer Science (Graphic and Multimedia Software) with Honours.
