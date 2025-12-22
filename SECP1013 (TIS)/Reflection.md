@@ -8,3 +8,5 @@
 |Lab 1 : PC Asemmble |
 | Summarize | PC assemble provided hands-on experience in assemblng a PC and identifying and installing hardware components based on the steps correctly. Trough this lab session, I learned about the function of each component such as motherboard, CPU, RAM, storage device and power supply. It helped me understand the correct assembly sequence and the importance of handling components carefully. To sum up, this lab session enhanced my practical skills and improved our understanding of computer hardware. |
 | Improvement | For the improvements, more time could be allocated for hands-on practice to ensure students fully understand on how to handle computer hardware. In addition, allowing students to troubleshoot common assembly erros would strengthen their practical learning experience. |
+| Assignment 2 : Industrial Talk with PPG |
+| Summarize | In industrial talk with PPG, i learned about how ICT give a meaningful impact on industry and strengthened our appreciation for the field's relevance. It motivated me to continue developing, recognizing that ICT will remain a crucial found for future career opportunities and indstry advancement. |
